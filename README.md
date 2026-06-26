@@ -31,108 +31,108 @@
 
 6. Propriedades somente leitura (readonly)
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 7. Métodos estáticos (static)
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 8. Propriedades estáticas (static)
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 9. Encapsulamento
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 10. Herança
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 11. Polimorfismo
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 12. Abstração
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 13. Getters e setters
+14. 
+[solução 1]()
 
-solução 1:
-
-solução 2:
+[solução 2]()
 
 14. Classes abstratas (abstract)
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 15. Métodos abstratos
+    
+[solução 1]()
 
-solução 1:
-
-solução 2:
+[solução 2]()
 
 16. Sobrescrita de métodos (override)
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 17. Sobrecarga de métodos (method overloading)
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 18. Parâmetros opcionais em métodos
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 19. Parâmetros padrão
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 20. Herança simples
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 21. Cadeia de herança
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 22. Tratamento de exceções (throw, try, catch)
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
 
 23. Classes e herança de classes de erro
 
-solução 1:
+[solução 1]()
 
-solução 2:
+[solução 2]()
